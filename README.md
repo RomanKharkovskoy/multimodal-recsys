@@ -1,1 +1,1 @@
-# multimodal-recsys
+# MultiModus
